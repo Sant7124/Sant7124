@@ -1,76 +1,82 @@
-<div align="center">
-  <h1>Santosh Yadav</h1>
-  <p><b>Full-Stack & Security Engineer | B.Tech CSE Undergraduate</b></p>
-  <p>
-    Building intelligent web applications, RAG systems, and OSINT platforms. Specialized in AI integration, secure systems, and scalable full-stack development.
-  </p>
+# SANTOSH YADAV
+**Full-Stack & Security Engineer**
 
-  <div>
-    <a href="https://santosh-yadav-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/santosh-yadav" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:sant7124@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </div>
-  <br/>
-</div>
+Building intelligent systems at the intersection of AI, software & security.
 
-<hr/>
+[Portfolio](https://santosh-yadav-portfolio.vercel.app/) | [LinkedIn](https://linkedin.com/in/santosh-yadav) | [Email](mailto:sant7124@gmail.com)
 
-## ⚡ Technical Arsenal
+---
 
-**Frontend**:  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
+## 01 / WHAT I BUILD
 
-**Backend & Databases**:  
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+I build intelligent software systems at the intersection of full-stack engineering, AI integration, and cybersecurity. 
 
-**AI / ML & Advanced**:  
-![LLMs](https://img.shields.io/badge/LLM_Integration-000000?style=flat-square&logo=openai&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6F00?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=flat-square)
-![OSINT](https://img.shields.io/badge/OSINT-Security-red?style=flat-square)
+My work focuses on turning AI capabilities into usable applications — from document intelligence and semantic analytics to digital footprint analysis and phishing detection.
 
-**Tools & Infrastructure**:  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square)
+## 02 / ENGINEERING FOCUS
 
-<hr/>
+- **AI & ML**: RAG Systems, LLM Integration, Semantic Retrieval
+- **Full-Stack**: React.js, FastAPI, Node.js, Express.js
+- **Security**: OSINT, Digital Exposure Scanning
 
-## 🚀 Flagship Projects
+## 03 / FLAGSHIP SYSTEMS
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **[ExplainO](https://github.com/Sant7124/ExplainO)** | **AI Document Intelligence SaaS**: Production-grade RAG platform analyzing and explaining complex documents via semantic search and context-aware Q&A. | `React` `FastAPI` `Python` `Groq` `PyMuPDF` | [Live](https://explaino-07.vercel.app) \| [GitHub](https://github.com/Sant7124/ExplainO) |
-| **[MetricMind](https://github.com/Sant7124/MetricMind)** | **Agentic Semantic BI Platform**: Converts natural-language queries into secure business insights using a semantic metric layer. | `React` `FastAPI` `SQLAlchemy` `PostgreSQL` | [Live](https://metricmind-sant.vercel.app) \| [GitHub](https://github.com/Sant7124/MetricMind) |
-| **[DigiFootprint](https://github.com/Sant7124/DigiFootprint)** | **OSINT Digital Exposure Scanner**: Scans emails/usernames to detect online presence, breaches, and password leaks via security APIs. | `React` `Node.js` `Express.js` `OSINT APIs` | [Live](https://digi-footprint-ebon.vercel.app) \| [GitHub](https://github.com/Sant7124/DigiFootprint) |
-| **[ShieldVision AI](https://github.com/Sant7124/ShieldVision)** | **Cybersecurity AI (Ongoing)**: Real-time phishing detection platform analyzing URLs, emails, and images using machine learning. | `React` `FastAPI` `Python` `ML` `OCR` | [GitHub](https://github.com/Sant7124/ShieldVision) |
+### EXPLAINO
+*AI Document Intelligence*
 
-<hr/>
+Turns complex documents into searchable, context-aware knowledge using RAG, semantic retrieval, and context-aware Q&A.
 
-## 📈 GitHub Activity
+**Tech**: React, FastAPI, Python, Groq, PyMuPDF  
+[Live Demo](https://explaino-07.vercel.app) · [Source](https://github.com/Sant7124/ExplainO)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sant7124&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-</div>
+### METRICMIND
+*Agentic Semantic BI Platform*
 
-<br/>
+Converts natural-language queries into secure, governed business insights using a semantic metric layer.
 
-<div align="center">
-  <i>"Building products that solve real problems, with a focus on intelligence and security."</i>
-</div>
+**Tech**: React, FastAPI, Python, SQLAlchemy, PostgreSQL  
+[Live Demo](https://metricmind-sant.vercel.app) · [Source](https://github.com/Sant7124/MetricMind)
+
+### DIGIFOOTPRINT
+*Digital Exposure Intelligence*
+
+Scans emails, usernames, and passwords to detect online account presence, breach exposure, and password leaks using security APIs.
+
+**Tech**: React, Node.js, Express.js, OSINT APIs  
+[Live Demo](https://digi-footprint-ebon.vercel.app) · [Source](https://github.com/Sant7124/Digi_Footprint)
+
+## 04 / ENGINEERING APPROACH
+
+Build systems that are:
+1. **Useful**: Focused on solving real problems with intelligent solutions.
+2. **Secure**: Prioritizing data safety and vulnerability scanning.
+3. **Maintainable**: Utilizing clean object-oriented design.
+
+## 05 / TECHNOLOGY
+
+- **Languages**: C, C++, Python, Java, JavaScript
+- **Frontend**: HTML5, CSS3, React.js, Vite, Tailwind CSS
+- **Backend**: Node.js, Express.js, FastAPI, MongoDB, PostgreSQL, SQLite
+- **Tools**: Git, GitHub, VS Code, Postman, Vercel, Render
+
+## 06 / CURRENTLY BUILDING
+
+### SHIELDVISION AI
+*AI-Powered Security Platform*
+
+Building a real-time phishing detection platform that analyzes URLs, emails, text, and images using machine learning to generate actionable security insights.
+
+[Source](https://github.com/Sant7124/ShieldVision)
+
+## 07 / VERIFIED ACHIEVEMENTS
+
+- **Problem Solving (Basic & Intermediate)** – HackerRank
+- **HTML & CSS in Depth** – Meta (Coursera)
+- **MongoDB** – GeeksforGeeks
+
+## 08 / LET'S CONNECT
+
+- **Email**: sant7124@gmail.com
+- **LinkedIn**: [in/santosh-yadav](https://linkedin.com/in/santosh-yadav)
+- **LeetCode**: [Mr_Phikin](https://leetcode.com/u/Mr_Phikin/)
+- **HackerRank**: [Mr_Phikin](https://hackerrank.com/profile/Mr_Phikin)
