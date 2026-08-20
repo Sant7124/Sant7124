@@ -8,12 +8,12 @@
 ## 2. Top Six Flagship Repositories (The "Core 6")
 These repositories tell the strongest engineering story and align with the Premium Profile README:
 
-1. **ExplainO** (AI Document Intelligence SaaS)
+1. **ExplainO** (AI Document Intelligence SaaS) - [Live](https://explaino-07.vercel.app)
 2. **MetricMind** (Agentic Semantic BI Platform)
 3. **ShieldVision** (AI-Powered Security Platform - Must be made public/developed)
-4. **Digi_Footprint** (OSINT Digital Exposure Intelligence)
+4. **Digi_Footprint** (OSINT Digital Exposure Intelligence) - [Live](https://digi-footprint-ebon.vercel.app)
 5. **ResumeX** (AI Resume Tooling)
-6. **internship-recommender** (ML Career Recommendation)
+6. **internship-recommender** (ML Career Recommendation) - [Live](https://internshiprecommender.up.railway.app)
 
 ## 3. Recommended Pin Order
 The pinned repositories should immediately validate the "AI × Software × Security" brand:
@@ -57,3 +57,8 @@ To elevate these from "student projects" to "industry-level repositories", Phase
 2. **Security Hardening**: Scrub secrets, add `.env.example`, and enable Dependabot.
 3. **Engineering Rigor**: Add GitHub Actions (CI), testing frameworks, and architectural diagrams.
 4. **Cleanup**: Archive or privatize the duplicate/clutter repositories (PortFolio, ExplainMyDoc, GeeksStreak60).
+
+## 12. Deployment Evidence (Update)
+- **ExplainO**: Successfully deployed and live at https://explaino-07.vercel.app (High recruiter value for demonstrating full-stack deployment).
+- **Digi_Footprint**: Live at https://digi-footprint-ebon.vercel.app.
+- **internship-recommender**: Live at https://internshiprecommender.up.railway.app. **Audit Correction**: This repository is a *fork* (from Shivam-dev30/internship-recommender). While the live deployment adds value, as a forked ML project, its "engineering proof" value for Santosh is lower unless significant original frontend/backend work was contributed. It should probably be moved down the pin priority list or replaced.
