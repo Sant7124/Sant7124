@@ -100,12 +100,16 @@ Analyzes user skills and recommends relevant internship roles using machine lear
 
 <br>
 
-### ▰▰▰ `GITHUB ANALYTICS` ▰▰▰
+### ▰▰▰ `OPERATIONAL DIRECTIVES` ▰▰▰
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sant7124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sant7124&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</div>
+> **01. INTELLIGENCE OVER NOISE**  
+> Building AI systems that extract signal from unstructured data, moving beyond basic wrappers to create semantic, context-aware engines.
+
+> **02. SECURITY BY DESIGN**  
+> Treating user data and external inputs as fundamentally hostile. Implementing robust validation, OSINT scanning, and threat detection natively.
+
+> **03. DEPLOYABLE EXCELLENCE**  
+> Architecture that scales. Code that is readable. Systems that ship.
 
 <br>
 
