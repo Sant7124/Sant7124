@@ -45,7 +45,7 @@ Status: Actively building
   <img src="https://cdn.simpleicons.org/sqlite/00E5FF" height="40" alt="SQLite" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/00E5FF" height="40" alt="Git" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/00E5FF" height="40" alt="GitHub" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/00E5FF" height="40" alt="VS Code" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/00E5FF" height="40" alt="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postman/00E5FF" height="40" alt="Postman" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kalilinux/00E5FF" height="40" alt="Security" />
 </div>
