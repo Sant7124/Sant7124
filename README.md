@@ -29,14 +29,26 @@ Status: Actively building
 
 ## `/ CORE ENGINEERING STACK`
 
-> **`[ ARCHITECTURE & AI ]`**  
-> ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00E5FF) ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00E5FF) ![LLMs](https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge&logo=openai&logoColor=00E5FF) ![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logo=databricks&logoColor=00E5FF)
-> <br><br>
-> **`[ APPLICATION ENGINEERING ]`**  
-> ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00E5FF) ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00E5FF) ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=00E5FF) ![Tailwind](https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF)
-> <br><br>
-> **`[ DATA & SECURITY ]`**  
-> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00E5FF) ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=00E5FF) ![OSINT](https://img.shields.io/badge/OSINT-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
+<div align="center">
+  <br>
+  <img src="https://cdn.simpleicons.org/python/00E5FF" height="40" alt="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/00E5FF" height="40" alt="FastAPI" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/00E5FF" height="40" alt="React" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/00E5FF" height="40" alt="Node.js" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/00E5FF" height="40" alt="Express" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/00E5FF" height="40" alt="TypeScript" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/00E5FF" height="40" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/00E5FF" height="40" alt="Tailwind" />
+  <br><br><br>
+  <img src="https://cdn.simpleicons.org/postgresql/00E5FF" height="40" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/00E5FF" height="40" alt="MongoDB" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/00E5FF" height="40" alt="SQLite" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/00E5FF" height="40" alt="Git" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/00E5FF" height="40" alt="GitHub" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/00E5FF" height="40" alt="VS Code" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/00E5FF" height="40" alt="Postman" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/00E5FF" height="40" alt="Security" />
+</div>
 
 <br>
 
