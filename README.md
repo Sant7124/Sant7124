@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;AI+%C3%97+Software+%C3%97+Security;Turning+data+into+intelligence" alt="Typing SVG" />
-
+ 
   <h1>SANTOSH YADAV</h1>
   <b>Full-Stack & Security Engineer</b><br><br>
 
