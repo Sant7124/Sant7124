@@ -27,13 +27,16 @@ Status: Actively building
 
 <br>
 
-## `/ ENGINEERING FOCUS`
+## `/ CORE ENGINEERING STACK`
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi,py,js,ts,postgres,mongodb,sqlite,git,github,vscode,postman&perline=8&theme=dark" />
-  </a>
-</div>
+> **`[ ARCHITECTURE & AI ]`**  
+> ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00E5FF) ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00E5FF) ![LLMs](https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge&logo=openai&logoColor=00E5FF) ![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logo=databricks&logoColor=00E5FF)
+> <br><br>
+> **`[ APPLICATION ENGINEERING ]`**  
+> ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00E5FF) ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00E5FF) ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=00E5FF) ![Tailwind](https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF)
+> <br><br>
+> **`[ DATA & SECURITY ]`**  
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00E5FF) ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=00E5FF) ![OSINT](https://img.shields.io/badge/OSINT-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
 
 <br>
 
